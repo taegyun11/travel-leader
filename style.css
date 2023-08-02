@@ -40,3 +40,17 @@ a{
 a:hover{
     color: #4B8D97;
 }
+@media screen and (max-width:48rem) {
+    .phone{
+        display: none;
+    }
+    .phone-margin{
+        margin-bottom: 3em;
+    }
+    .phone-center{
+        text-align: center!important;
+    }
+    .phone-padding{
+        padding-left: 0!important;
+    }
+}
