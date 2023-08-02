@@ -53,4 +53,10 @@ a:hover{
     .phone-padding{
         padding-left: 0!important;
     }
+    .phone-img{
+        width: 400px;
+    }
+    .phone-margin-top{
+        margin-top: 2em;
+    }
 }
